@@ -3,9 +3,8 @@
  * 
  * This is the fputs fgets version.   
  * 
- * My version of cat.  Takes no arguments other than a valid file.
- * If an invalid file is given... all hell breaks loose.
- * So... it needs work.
+ * A very simple version of cat.  Takes no arguments other than a valid text file.
+ * 
  * @author: Peter Suchsland
  *
  */
