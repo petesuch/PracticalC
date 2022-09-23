@@ -1,5 +1,5 @@
 /*  katc.c
- *
+ *  A simple version of cat in C language.
  *  This is the fgetc fputc version of kats
  *
  *  @author: Peter Suchsland
